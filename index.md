@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+## Terms&Conditions
 
-You can use the [editor on GitHub](https://github.com/HridaySarma-A2Z-Trends/PrivacyPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+A2Z Trendz has created this statement in order to demonstrate our commitment to your privacy, while you use your application. This statement discloses the information practices for the A2Z Trendz application, including what type of information is gathered and tracked, how the information is used and with whom the information is shared.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Collection & Use of Personal & Non-Personal Information :
 
-- Bulleted
-- List
+This notice applies to all information collected or submitted on the A2Z Trendz. On some pages, you can order products, and register to receive materials. The types of personal information collected at these pages are:
 
-1. Numbered
-2. List
+Name
 
-**Bold** and _Italic_ and `Code` text
+Address
 
-[Link](url) and ![Image](src)
-```
+Phone number
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Etc.]
 
-### Jekyll Themes
+A2Z Trendz may obtain information about your location through pinpointed GPS data or when you submit a partial/complete address as a part of registering/signing up on our application. A2Z Trendz may also access, store and use your location information/address to make you aware of location-specific products and services (such as exclusive offers for a particular city/area) through emails/newsletters/SMS. Personal information of customers obtained by A2Z Trendz  will under no circumstances be shared with third parties for their marketing purposes. It will only be used to improve our own products/marketing activities and will remain strictly confidential. We may also collect non-personal information such as occupation, language, zip code, area code, etc of customers so that we can better understand customer behaviour and improve our products, services, and advertising. If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HridaySarma-A2Z-Trends/PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 
 
-### Support or Contact
+ 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Disclosure of your Information :
+
+We are committed to protecting your privacy and security. All personal data that we collect from you will be processed in accordance with our Privacy Policy. You should review our Privacy Policy, which is incorporated into these website terms by this reference and is available here.
+
+The information that you provide to us will be transferred to and stored on our server.
+
+
+SHIPPING & DILVERY POLICY
+
+
+We are committed to protecting the privacy of all visitors to A2Z Trendz website. Please read the following privacy policy which explains how we use and protect your information.
+
+ 
+
+We are  A2Z Trendz ,  our registered office at C-186 Nehru Colony Dehradun-Uttarakhand, 248001, India.
+
+IMPORTANT LEGAL NOTICE
+
+This page tells you the terms and conditions on which we provide our services ("Website Terms"). Please read these Website Terms carefully before ordering any items from our Website. You should understand that by ordering food items via the Website, you agree to be bound by these Website Terms.
+
+ 
+
+Prices
+
+GST is applicable on the prices.
+
+On the occasion that any item is incorrectly priced, we reserve the right to cancel the purchase and relist the product at the correct price.
+
+Privacy
+
+We only store necessary information required to make a purchase.
+
+Your credit card information is not stored by us and is always processed across a secure server.
+
+We do not sell data, we only sell great product! All information left with A.S.H collection is entirely confidential.
+
+ 
+
+Online Order
+
+Our customer service will call you only when they need some clarifications. All regular communications after placing an order will happen on email, notifications or through the application.
+
+An order number will be generated once the order is confirmed.
+
+Items ordered from application are subject to availability at the store location as per the location chosen by you.
+
+Order will be delivered as fast as possible, usually within 5-8 days. It might vary as per location and area and will be indicated to you after shipment.
